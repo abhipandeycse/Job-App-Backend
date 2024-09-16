@@ -1,4 +1,4 @@
-package com.securejob.app;
+package com.securejob.app.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

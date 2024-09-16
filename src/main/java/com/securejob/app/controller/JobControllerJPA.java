@@ -1,4 +1,4 @@
-package com.securejob.app;
+package com.securejob.app.controller;
 
 import java.util.List;
 import java.util.Optional;
