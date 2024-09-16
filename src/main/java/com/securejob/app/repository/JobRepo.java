@@ -1,4 +1,4 @@
-package com.securejob.app.repo;
+package com.securejob.app.repository;
 
 import com.securejob.app.model.*;
 

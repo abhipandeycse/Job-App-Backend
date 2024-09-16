@@ -1,6 +1,6 @@
 package com.securejob.app.service;
 
-import com.securejob.app.repo.JobRepo;
+import com.securejob.app.repository.JobRepo;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;

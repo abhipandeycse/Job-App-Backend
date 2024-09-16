@@ -5,7 +5,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import com.securejob.app.model.JobUser;
-import com.securejob.app.repo.JobUserRepo;
+import com.securejob.app.repository.JobUserRepo;
 
 @Service
 public class JobUserService {

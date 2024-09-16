@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.securejob.app.model.JobUser;
 import com.securejob.app.model.JobUserPrincipal;
-import com.securejob.app.repo.JobUserRepo;
+import com.securejob.app.repository.JobUserRepo;
 
 @Service
 public class JobUserDetailsService implements UserDetailsService {
